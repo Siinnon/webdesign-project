@@ -99,6 +99,16 @@ footer p {
     margin: 0;
 }
 
+#section-d .box {
+    padding: 2.2rem;
+    color: #fff;
+}
+
+#section-d .box:first-child {
+    background: #333;
+    color: #f4f4f4;
+}
+
 
 /* Small Screens */
 
